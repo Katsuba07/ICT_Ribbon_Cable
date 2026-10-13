@@ -1,0 +1,324 @@
+{
+  "name": "50_to_50",
+  "board_pin_count": 80,
+  "connector_a": {
+    "id": "A",
+    "label": "Connector A",
+    "pin_count": 50,
+    "bypass_pins": [],
+    "layout": "zigzag",
+    "custom_order": []
+  },
+  "connectors_b": [
+    {
+      "id": "B1",
+      "label": "Connector B1",
+      "pin_count": 50,
+      "bypass_pins": [],
+      "layout": "zigzag",
+      "custom_order": []
+    }
+  ],
+  "wires": [
+    {
+      "board_pin": 1,
+      "connector_a_pin": 1,
+      "connector_b_id": "B1",
+      "connector_b_pin": 1
+    },
+    {
+      "board_pin": 2,
+      "connector_a_pin": 2,
+      "connector_b_id": "B1",
+      "connector_b_pin": 2
+    },
+    {
+      "board_pin": 3,
+      "connector_a_pin": 3,
+      "connector_b_id": "B1",
+      "connector_b_pin": 3
+    },
+    {
+      "board_pin": 4,
+      "connector_a_pin": 4,
+      "connector_b_id": "B1",
+      "connector_b_pin": 4
+    },
+    {
+      "board_pin": 5,
+      "connector_a_pin": 5,
+      "connector_b_id": "B1",
+      "connector_b_pin": 5
+    },
+    {
+      "board_pin": 6,
+      "connector_a_pin": 6,
+      "connector_b_id": "B1",
+      "connector_b_pin": 6
+    },
+    {
+      "board_pin": 7,
+      "connector_a_pin": 7,
+      "connector_b_id": "B1",
+      "connector_b_pin": 7
+    },
+    {
+      "board_pin": 8,
+      "connector_a_pin": 8,
+      "connector_b_id": "B1",
+      "connector_b_pin": 8
+    },
+    {
+      "board_pin": 9,
+      "connector_a_pin": 9,
+      "connector_b_id": "B1",
+      "connector_b_pin": 9
+    },
+    {
+      "board_pin": 10,
+      "connector_a_pin": 10,
+      "connector_b_id": "B1",
+      "connector_b_pin": 10
+    },
+    {
+      "board_pin": 11,
+      "connector_a_pin": 11,
+      "connector_b_id": "B1",
+      "connector_b_pin": 11
+    },
+    {
+      "board_pin": 12,
+      "connector_a_pin": 12,
+      "connector_b_id": "B1",
+      "connector_b_pin": 12
+    },
+    {
+      "board_pin": 13,
+      "connector_a_pin": 13,
+      "connector_b_id": "B1",
+      "connector_b_pin": 13
+    },
+    {
+      "board_pin": 14,
+      "connector_a_pin": 14,
+      "connector_b_id": "B1",
+      "connector_b_pin": 14
+    },
+    {
+      "board_pin": 15,
+      "connector_a_pin": 15,
+      "connector_b_id": "B1",
+      "connector_b_pin": 15
+    },
+    {
+      "board_pin": 16,
+      "connector_a_pin": 16,
+      "connector_b_id": "B1",
+      "connector_b_pin": 16
+    },
+    {
+      "board_pin": 17,
+      "connector_a_pin": 17,
+      "connector_b_id": "B1",
+      "connector_b_pin": 17
+    },
+    {
+      "board_pin": 18,
+      "connector_a_pin": 18,
+      "connector_b_id": "B1",
+      "connector_b_pin": 18
+    },
+    {
+      "board_pin": 19,
+      "connector_a_pin": 19,
+      "connector_b_id": "B1",
+      "connector_b_pin": 19
+    },
+    {
+      "board_pin": 20,
+      "connector_a_pin": 20,
+      "connector_b_id": "B1",
+      "connector_b_pin": 20
+    },
+    {
+      "board_pin": 21,
+      "connector_a_pin": 21,
+      "connector_b_id": "B1",
+      "connector_b_pin": 21
+    },
+    {
+      "board_pin": 22,
+      "connector_a_pin": 22,
+      "connector_b_id": "B1",
+      "connector_b_pin": 22
+    },
+    {
+      "board_pin": 23,
+      "connector_a_pin": 23,
+      "connector_b_id": "B1",
+      "connector_b_pin": 23
+    },
+    {
+      "board_pin": 24,
+      "connector_a_pin": 24,
+      "connector_b_id": "B1",
+      "connector_b_pin": 24
+    },
+    {
+      "board_pin": 25,
+      "connector_a_pin": 25,
+      "connector_b_id": "B1",
+      "connector_b_pin": 25
+    },
+    {
+      "board_pin": 26,
+      "connector_a_pin": 26,
+      "connector_b_id": "B1",
+      "connector_b_pin": 26
+    },
+    {
+      "board_pin": 27,
+      "connector_a_pin": 27,
+      "connector_b_id": "B1",
+      "connector_b_pin": 27
+    },
+    {
+      "board_pin": 28,
+      "connector_a_pin": 28,
+      "connector_b_id": "B1",
+      "connector_b_pin": 28
+    },
+    {
+      "board_pin": 29,
+      "connector_a_pin": 29,
+      "connector_b_id": "B1",
+      "connector_b_pin": 29
+    },
+    {
+      "board_pin": 30,
+      "connector_a_pin": 30,
+      "connector_b_id": "B1",
+      "connector_b_pin": 30
+    },
+    {
+      "board_pin": 31,
+      "connector_a_pin": 31,
+      "connector_b_id": "B1",
+      "connector_b_pin": 31
+    },
+    {
+      "board_pin": 32,
+      "connector_a_pin": 32,
+      "connector_b_id": "B1",
+      "connector_b_pin": 32
+    },
+    {
+      "board_pin": 33,
+      "connector_a_pin": 33,
+      "connector_b_id": "B1",
+      "connector_b_pin": 33
+    },
+    {
+      "board_pin": 34,
+      "connector_a_pin": 34,
+      "connector_b_id": "B1",
+      "connector_b_pin": 34
+    },
+    {
+      "board_pin": 35,
+      "connector_a_pin": 35,
+      "connector_b_id": "B1",
+      "connector_b_pin": 35
+    },
+    {
+      "board_pin": 36,
+      "connector_a_pin": 36,
+      "connector_b_id": "B1",
+      "connector_b_pin": 36
+    },
+    {
+      "board_pin": 37,
+      "connector_a_pin": 37,
+      "connector_b_id": "B1",
+      "connector_b_pin": 37
+    },
+    {
+      "board_pin": 38,
+      "connector_a_pin": 38,
+      "connector_b_id": "B1",
+      "connector_b_pin": 38
+    },
+    {
+      "board_pin": 39,
+      "connector_a_pin": 39,
+      "connector_b_id": "B1",
+      "connector_b_pin": 39
+    },
+    {
+      "board_pin": 40,
+      "connector_a_pin": 40,
+      "connector_b_id": "B1",
+      "connector_b_pin": 40
+    },
+    {
+      "board_pin": 41,
+      "connector_a_pin": 41,
+      "connector_b_id": "B1",
+      "connector_b_pin": 41
+    },
+    {
+      "board_pin": 42,
+      "connector_a_pin": 42,
+      "connector_b_id": "B1",
+      "connector_b_pin": 42
+    },
+    {
+      "board_pin": 43,
+      "connector_a_pin": 43,
+      "connector_b_id": "B1",
+      "connector_b_pin": 43
+    },
+    {
+      "board_pin": 44,
+      "connector_a_pin": 44,
+      "connector_b_id": "B1",
+      "connector_b_pin": 44
+    },
+    {
+      "board_pin": 45,
+      "connector_a_pin": 45,
+      "connector_b_id": "B1",
+      "connector_b_pin": 45
+    },
+    {
+      "board_pin": 46,
+      "connector_a_pin": 46,
+      "connector_b_id": "B1",
+      "connector_b_pin": 46
+    },
+    {
+      "board_pin": 47,
+      "connector_a_pin": 47,
+      "connector_b_id": "B1",
+      "connector_b_pin": 47
+    },
+    {
+      "board_pin": 48,
+      "connector_a_pin": 48,
+      "connector_b_id": "B1",
+      "connector_b_pin": 48
+    },
+    {
+      "board_pin": 49,
+      "connector_a_pin": 49,
+      "connector_b_id": "B1",
+      "connector_b_pin": 49
+    },
+    {
+      "board_pin": 50,
+      "connector_a_pin": 50,
+      "connector_b_id": "B1",
+      "connector_b_pin": 50
+    }
+  ]
+}

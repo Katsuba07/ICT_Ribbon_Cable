@@ -1,0 +1,17 @@
+# KiCad local history / backups
+PCB/.history/
+*-backups/
+fp-info-cache
+*.kicad_prl
+
+# Proteus autosaves / backups
+Simulation/Project Backups/
+*.workspace
+
+# Python
+__pycache__/
+*.pyc
+
+# OS / editor
+Thumbs.db
+.DS_Store
